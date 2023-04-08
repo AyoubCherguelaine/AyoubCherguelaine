@@ -4,8 +4,6 @@
 I am a backend developer and NLP student from Algeria.
 I have a strong passion for natural language processing and I am always looking to learn new things in this field.
 
-## Projects
-You can find my projects on my [GitHub](https://github.com/AyoubCherguelaine).
 
 ## Skills
 - Python
