@@ -7,13 +7,27 @@ I have a strong passion for natural language processing and I am always looking 
 
 ## Skills
 - Python
-- Natural Language Processing
-- Backend development
-- nodejs
-- expressjs
-- mysql
-- mongoDB
-- firestore
+- Javascript
+- C#
+- C++/C
+- Backend Development / APIs
+- FastAPI
+- Flask
+- Nodejs
+- Expressjs
+- Frontend Development
+- Next.js
+- HTML/CSS
+- Database
+- Mysql
+- SQLite
+- MongoDB
+- Firebase
+- Redis
+- Machine Learning
+- TF
+- PyTorch
+- Transformers
 
 ## Contact Me
 You can reach me at [my email](mailto:cherguelainea@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/ayoub-cherguelaine/).
