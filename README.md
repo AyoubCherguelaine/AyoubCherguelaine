@@ -1,7 +1,13 @@
 # Ayoub Cherguelaine
 
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=AyoubCherguelaine&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyoubCherguelaine&theme=dracula&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubCherguelaine&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## About Me
-I am a backend developer and NLP student from Algeria.
+I am a Python Developer and NLP & ML Engineer from Algeria.
 I have a strong passion for natural language processing and I am always looking to learn new things in this field.
 
 
