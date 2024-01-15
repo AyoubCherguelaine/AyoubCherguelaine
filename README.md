@@ -16,30 +16,14 @@ I have a strong passion for natural language processing and I am always looking 
 - Javascript
 - C#
 - C++/C
-- Backend Development
-- API Development / Test
-- Odoo Development
-- FastAPI
-- Flask
+- Backend Development, API Development / Test
+- Odoo Development, FastAPI, Flask, Expressjs
 - Nodejs
-- Expressjs
-- Frontend Development
-- React.js
-- Next.js
-- HTML/CSS
-- Database
-- Mysql
-- SQLite
-- Postgresql
-- MongoDB
-- Firebase
-- Redis
-- git / gitlab
+- React.js, Next.js, HTML/CSS
+- Mysql, SQLite, Postgresql, MongoDB, Firebase, Redis
+- git, Github, Gitlab
 - Machine Learning
-- Artificial Intelligence
-- TF
-- PyTorch
-- Transformers
+- TF, PyTorch,scikit ,Transformers
 - Apache Superset
 - Software Testing
 
